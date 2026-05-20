@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,product_category,quantity,price,timestamp
+1001,501,201,Electronics,1,299.99,2025-05-01 12:00:00
+1002,502,202,Books,2,15.99,2025-05-01 12:30:00
+1003,503,203,Electronics,1,499.99,2025-05-01 13:00:00
+1004,504,202,Books,3,15.99,2025-05-01 14:00:00
+1005,505,201,Electronics,2,299.99,2025-05-01 15:00:00
